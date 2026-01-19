@@ -39,6 +39,20 @@ git clone https://github.com/your-username/Spotify-clone.git
 This project is created for learning and practice purposes.
 Please use copyright-free songs if uploading audio files.
 
+Songs Folder Note:
+
+⚠️ Songs (.mp3) files are not uploaded in this repository because audio files are large and take a lot of time to upload on GitHub. Also due to copyright reasons.
+To run this project properly, please add your own .mp3 songs inside the songs/ folder.
+
+Example structure:
+
+songs/
+  ncs/
+    song1.mp3
+    song2.mp3
+    cover.jpg
+    info.json
+    
 👨‍💻 Author:
 Akash Thakur
 GitHub: https://github.com/Ak2005ash
